@@ -14,4 +14,5 @@ Below is a list of the challenges currently hosted in this repository.
  
 Challenge| Type | Directory & Writeup
 ----------|-------------------|----------
-[Letter](https://capturetheflag.withgoogle.com/#beginners/misc-letter)|Misc|[Here](/beginner/letter)
+[Letter](https://capturetheflag.withgoogle.com/#beginners/misc-letter)|Misc|[Solution](/beginner/letter)
+[OCR is Cool](https://capturetheflag.withgoogle.com/#beginners/misc-ocr-is-cool)|Misc|[Solution](/beginner/ocr_is_cool)
