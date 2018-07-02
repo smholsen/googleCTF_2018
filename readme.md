@@ -17,3 +17,4 @@ Challenge| Type | Directory & Writeup
 [Letter](https://capturetheflag.withgoogle.com/#beginners/misc-letter)|Misc|[Solution](/beginner/letter)
 [OCR is Cool](https://capturetheflag.withgoogle.com/#beginners/misc-ocr-is-cool)|Misc|[Solution](/beginner/ocr_is_cool)
 [Moar](https://capturetheflag.withgoogle.com/#beginners/pwn-moar)|Misc|[Solution](/beginner/moar)
+[Floppy](https://capturetheflag.withgoogle.com/#beginners/misc-floppy)|Misc|[Solution](/beginner/floppy)
